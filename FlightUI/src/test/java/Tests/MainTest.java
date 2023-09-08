@@ -28,7 +28,6 @@ public class MainTest extends InitialTest implements Constants {
         loginPage.ClickFromTextBoxSelectFirst();
 
         logger.info("Case 1 : User can enters same values for from and to areas. This is bug.");
-        // Buraya ne yazabilirim ??
     }
 
 
